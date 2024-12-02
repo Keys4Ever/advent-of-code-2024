@@ -1,0 +1,1 @@
+Iba a hacerlo en java pero me dio paja instalar el jdk
